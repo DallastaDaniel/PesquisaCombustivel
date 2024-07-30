@@ -2,4 +2,3 @@
 import pandas
 import numpy
 print("Biblioetcas importadas com sucesso")
-
